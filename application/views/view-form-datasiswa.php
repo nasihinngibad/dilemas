@@ -72,8 +72,8 @@
                         <td> 
                             <select name="jnskelamin" id="jnskelamin"> 
                                 <option value="">Pilih Jenis Kelamin</option> 
-                                <option value="1">Laki-Laki</option> 
-                                <option value="2">Perempuan</option> 
+                                <option value="Laki-Laki">Laki-Laki</option> 
+                                <option value="Perempuan">Perempuan</option> 
                             </select> 
                         </td> 
                     </tr>
@@ -83,13 +83,13 @@
                         <td> 
                             <select name="agama" id="agama"> 
                                 <option value="">Pilih Agama</option> 
-                                <option value="1">Islam</option> 
-                                <option value="2">Kristen</option> 
-                                <option value="3">Katolik</option>
-                                <option value="4">Budha</option> 
-                                <option value="5">Hindu</option> 
-                                <option value="6">Protestan</option>
-                                <option value="6">Khonghucu</option>
+                                <option value="Islam">Islam</option> 
+                                <option value="Kristen">Kristen</option> 
+                                <option value="Katolik">Katolik</option>
+                                <option value="Budha">Budha</option> 
+                                <option value="Hindu">Hindu</option> 
+                                <option value="Protestan">Protestan</option>
+                                <option value="Khonghucu">Khonghucu</option>
                             </select> 
                         </td> 
                     </tr> 
