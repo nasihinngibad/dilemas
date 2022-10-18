@@ -49,7 +49,7 @@
                         <th>Tanggal Lahir</th> 
                         <td>:</td> 
                         <td> 
-                            <input type="text" name="tgllahir" id="tgllahir"> 
+                            <input type="date" name="tgllahir" id="tgllahir"> 
                         </td> 
                     </tr>
                     <tr> 
